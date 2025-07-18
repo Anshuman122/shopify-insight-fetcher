@@ -68,6 +68,6 @@ shopify_insight_fetcher
 │ │ └── scraper.py
 │ └── utils
 │ └── parser.py
-├── .env # Your environment variables (OpenAI Secret Key like OPENAI_API_KEY=sk-xxx-example)
+├── .env # Your environment variables (OpenAI Secret Key like OPENAI_API_KEY=sk-xxx-example   IMPORTANT STEP)
 ├── requirements.txt # All dependencies
 ├── README.md # This file
