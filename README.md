@@ -55,3 +55,6 @@ http://127.0.0.1:8000/fetch-insights?website_url="https://examplestore.myshopify
 OUTPUT will be a JSON file with the details of the store
 
 
+IMPORTANT NOTE: PLEASE ADD .env FILE INSIDE shopify-insight-fetcher FOLDER WHICH CONTAINS OPENAI_API_KEY=dummy api key
+
+
