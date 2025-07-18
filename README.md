@@ -55,19 +55,3 @@ http://127.0.0.1:8000/fetch-insights?website_url="https://examplestore.myshopify
 OUTPUT will be a JSON file with the details of the store
 
 
-FOLDER STRUCTURE
-
-shopify_insight_fetcher
-├── app
-│ ├── main.py
-│ ├── models
-│ │ └── schema.py
-│ ├── routers
-│ │ └── fetch.py
-│ ├── services
-│ │ └── scraper.py
-│ └── utils
-│ └── parser.py
-├── .env # Your environment variables (OpenAI Secret Key like OPENAI_API_KEY=sk-xxx-example   IMPORTANT STEP)
-├── requirements.txt # All dependencies
-├── README.md # This file
