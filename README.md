@@ -1,5 +1,5 @@
 
-🧠 Brand Insights Scraper API  
+🧠 SHOPIFY INSIGHT FETCHER  
 This is a simple FastAPI project that takes a Shopify website URL and gives back product details, brand policies, contact info, and FAQs.
 
 📝 What You Need  
